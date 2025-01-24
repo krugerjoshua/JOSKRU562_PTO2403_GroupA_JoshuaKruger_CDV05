@@ -46,3 +46,5 @@ Once you've completed and tested your app:
 
 1. **Generate a Public Link:** If you've pushed your project to GitHub, your repository URL is what you'll need.
 2. **Submit the link:** to your completed app via the Learning Management System (LMS) [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+
+3. Be sure to check it out [**[Here]([https://learn.codespace.co.za/project](https://timely-kataifi-9af9c7.netlify.app)s)**]
